@@ -1,3 +1,14 @@
+## 🙏 Credits
+
+This script integrates the work of the following amazing open-source projects:
+
+- **[RIFE (ECCV2022)](https://github.com/megvii-research/ECCV2022-RIFE)** by Megvii Research – used for frame interpolation to boost framerate.
+- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** by Xintao et al. – used for high-quality video upscaling.
+
+Please refer to their repositories for original code, papers, and licenses.
+
+
+
 # 🎬 Video Quality Booster - RIFE + Real-ESRGAN
 # Script by samxspam
 This script automates the process of:
