@@ -9,7 +9,7 @@ Please refer to their repositories for original code, papers, and licenses.
 
 
 
-# 🎬 Video Quality Booster - RIFE + Real-ESRGAN
+# 🎬 Video Enhancer - RIFE + Real-ESRGAN
 # Script by samxspam
 This script automates the process of:
 1. Interpolating videos to 60 FPS using [RIFE](https://github.com/megvii-research/ECCV2022-RIFE)
